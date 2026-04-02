@@ -90,7 +90,7 @@ Insight: Major cities drive the majority of revenue.
 6. Orders by State (Bar Chart)
 Question: Which states have the highest orders?
 
-Insight: São Paulo leads in total orders.
+Insight: Sao Paulo leads in total orders.
 
 7 Time Filter (Slicer)
 Purpose: Enables dynamic analysis across date ranges
