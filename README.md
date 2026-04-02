@@ -51,13 +51,16 @@ Total Orders
 Customer Count
 
 Dashboard & Visualizations
-🔹 KPI Cards
+ KPI Cards
+ 
 Total Orders: 31K
-Total Sales: 4.38M
-Avg Order Value: 140.71
-Total Customers: 
 
- Charts & Business Insights
+Total Sales: 4.38M
+
+Avg Order Value: 140.71
+
+Total Customers: 
+Charts & Business Insights
 1. Sales Trend (Line Chart)
 Question: How do sales vary over time?
 Insight: Sales show consistent growth with seasonal peaks.
