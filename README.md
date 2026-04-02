@@ -16,12 +16,15 @@ SQL – Data extraction & transformation
 Excel – Data cleaning & preprocessing
 
  Step-by-Step Process
+ 
 1️⃣ Data Extraction
 Downloaded dataset from Kaggle
 Imported CSV files into SQL and Excel for preprocessing
+
 2️⃣ Data Loading
 Loaded cleaned data into Power BI
 Established relationships between tables
+
 3️⃣ Data Modeling
 Designed Star Schema
 Fact Table: Orders / Sales
@@ -29,14 +32,17 @@ Dimension Tables: Customers, Products, Sellers, Time
 Relationships:
 Many-to-One (Fact → Dimensions)
 Many-to-Many (handled using bridge tables where required)
+
 4️⃣ Data Cleaning
 Removed null values
 Standardized column formats (dates, currency)
 Handled missing data using appropriate techniques
+
 5️⃣ Data Validation
 Cross-checked totals between SQL, Excel, and Power BI
 Verified relationships and measures
 Ensured data consistency and accuracy
+
 6️⃣ Data Transformation
 Created calculated columns and measures:
 Total Sales
@@ -44,7 +50,7 @@ Average Order Value
 Total Orders
 Customer Count
 
- Dashboard & Visualizations
+Dashboard & Visualizations
 🔹 KPI Cards
 Total Orders: 31K
 Total Sales: 4.38M
