@@ -67,17 +67,17 @@ Question: How do sales vary over time?
 
 Insight: Sales show consistent growth with seasonal peaks.
 
-3. Orders vs Goal (Area Chart)
+2. Orders vs Goal (Area Chart)
 Question: Are we meeting monthly targets?
 
 Insight: Orders fall short of goals (~37% gap), indicating growth opportunities.
 
-4. Payment Type Distribution (Donut Chart)
+3. Payment Type Distribution (Donut Chart)
 Question: Which payment methods are most used?
 
 Insight: Credit cards dominate transactions.
 
-5. Sales by Product Category (Bar Chart)
+4. Sales by Product Category (Bar Chart)
 Question: Which products generate the most revenue?
 
 Insight: Top categories significantly outperform others.
