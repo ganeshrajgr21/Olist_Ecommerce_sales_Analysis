@@ -61,25 +61,38 @@ Avg Order Value: 140.71
 
 Total Customers: 
 Charts & Business Insights
+
 1. Sales Trend (Line Chart)
 Question: How do sales vary over time?
+
 Insight: Sales show consistent growth with seasonal peaks.
-2. Orders vs Goal (Area Chart)
+
+3. Orders vs Goal (Area Chart)
 Question: Are we meeting monthly targets?
+
 Insight: Orders fall short of goals (~37% gap), indicating growth opportunities.
-3. Payment Type Distribution (Donut Chart)
+
+4. Payment Type Distribution (Donut Chart)
 Question: Which payment methods are most used?
+
 Insight: Credit cards dominate transactions.
-4. Sales by Product Category (Bar Chart)
+
+5. Sales by Product Category (Bar Chart)
 Question: Which products generate the most revenue?
+
 Insight: Top categories significantly outperform others.
-5. Sales by Customer City (Line/Bar Chart)
+
+5 Sales by Customer City (Line/Bar Chart)
 Question: Which cities contribute most to sales?
+
 Insight: Major cities drive the majority of revenue.
+
 6. Orders by State (Bar Chart)
 Question: Which states have the highest orders?
+
 Insight: São Paulo leads in total orders.
-7. Time Filter (Slicer)
+
+7 Time Filter (Slicer)
 Purpose: Enables dynamic analysis across date ranges
 
 Key Insights
