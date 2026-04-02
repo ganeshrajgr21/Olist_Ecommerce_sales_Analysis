@@ -84,10 +84,10 @@ Purpose: Enables dynamic analysis across date ranges
 
 Key Insights
 
-**Strong dominance of credit card payments
+Strong dominance of credit card payments
 
 High revenue concentration in top cities and states
 
 Noticeable gap between actual orders and targets
 
-Seasonal sales growth patterns**
+Seasonal sales growth patterns
